@@ -1,4 +1,4 @@
-[![Build Status](http://ec2-54-202-194-183.us-west-2.compute.amazonaws.com/job/GithubJob/badge/icon)](http://ec2-54-202-194-183.us-west-2.compute.amazonaws.com/job/GithubJob/)
+https://acdl.mit.edu/csi/buildStatus/text?job=CE_gpfit_Push_pylint
 
 # jenkins-tutorial
 
